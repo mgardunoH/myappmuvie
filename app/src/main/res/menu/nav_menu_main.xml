@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuCerrarSesion"
+            android:icon="@mipmap/ic_launcher_play_now"
+            android:title="@string/playNow" />
+        <item
+            android:id="@+id/menuListarCiclos"
+            android:icon="@mipmap/ic_launcher_most_popular"
+            android:title="@string/mostPopulation" />
+
+    </group>
+
+</menu>

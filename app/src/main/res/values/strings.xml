@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myappmuvie</string>
+    <string name="playNow">Play Now</string>
+    <string name="mostPopulation">Most Popular</string>
+</resources>
